@@ -1,1 +1,1 @@
-This is a visualization of protein-protein interactions between a set of Inflammatory Bowel Disease (IBD) and non-IBD genes. Download and load the .html file to view the visualization.
+This is a visualization of protein-protein interactions between a set of Inflammatory Bowel Disease (IBD) and non-IBD genes. Download and load the .html file to view the visualization. The visualization is interactive, and the thickness of each edge correlates to how potent the interactions between the two genes are.
